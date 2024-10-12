@@ -5,5 +5,6 @@ https://github.com/vasusen-code/ethon/archive/refs/tags/v0.1.4.zip
 cryptg
 Flask==2.3.2
 tgcrypto
+logging
 pyrogram
 python-decouple
